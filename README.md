@@ -4,7 +4,7 @@
 
 Eine Fallstudie von **Cem Bagana** zu Produktmanagement, Prozessgestaltung und technischer Umsetzung.
 
-[Portfolio](https://www.cembagana.de/) · [LinkedIn](https://www.linkedin.com/in/cem-bagana/) · [GitHub-Profil](https://github.com/cembagana62-jpg)
+[Portfolio](https://www.cembagana.de/) · [LinkedIn](https://www.linkedin.com/in/cem-bagana/) · [GitHub-Profil](https://github.com/cem-bagana)
 
 ## Die Aufgabe
 
